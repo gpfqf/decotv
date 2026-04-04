@@ -1,0 +1,91 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/logo/cctv1.png",CCTV-1 综合
+https://live.cctv.cn/cctv1/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/logo/cctv2.png",CCTV-2 财经
+https://live.cctv.cn/cctv2/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/logo/cctv3.png",CCTV-3 综艺
+https://live.cctv.cn/cctv3/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/logo/cctv4.png",CCTV-4 中文国际
+https://live.cctv.cn/cctv4/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/logo/cctv5.png",CCTV-5 体育
+https://live.cctv.cn/cctv5/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/logo/cctv5plus.png",CCTV-5+ 体育赛事
+https://live.cctv.cn/cctv5plus/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/logo/cctv6.png",CCTV-6 电影
+https://live.cctv.cn/cctv6/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/logo/cctv7.png",CCTV-7 国防军事
+https://live.cctv.cn/cctv7/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/logo/cctv8.png",CCTV-8 电视剧
+https://live.cctv.cn/cctv8/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.cn/tv/logo/cctv9.png",CCTV-9 纪录
+https://live.cctv.cn/cctv9/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.cn/tv/logo/cctv10.png",CCTV-10 科教
+https://live.cctv.cn/cctv10/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.cn/tv/logo/cctv11.png",CCTV-11 戏曲
+https://live.cctv.cn/cctv11/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.cn/tv/logo/cctv12.png",CCTV-12 社会与法
+https://live.cctv.cn/cctv12/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/logo/cctv13.png",CCTV-13 新闻
+https://live.cctv.cn/cctv13/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/logo/cctv14.png",CCTV-14 少儿
+https://live.cctv.cn/cctv14/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/logo/cctv15.png",CCTV-15 音乐
+https://live.cctv.cn/cctv15/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/logo/cctv16.png",CCTV-16 奥林匹克
+https://live.cctv.cn/cctv16/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/logo/cctv17.png",CCTV-17 农业农村
+https://live.cctv.cn/cctv17/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HunanTV" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/logo/hunan.png",湖南卫视
+https://iptv.hnwtv.com/hls/hnws.m3u8
+#EXTINF:-1 tvg-id="ZhejiangTV" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/logo/zj.png",浙江卫视
+https://iptv.cztv.com/hls/zjws.m3u8
+#EXTINF:-1 tvg-id="DragonTV" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/logo/sh.png",东方卫视
+https://iptv.dragontv.cn/hls/dfws.m3u8
+#EXTINF:-1 tvg-id="JiangsuTV" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/logo/js.png",江苏卫视
+https://iptv.jstv.com/hls/jsws.m3u8
+#EXTINF:-1 tvg-id="GuangdongTV" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/logo/gd.png",广东卫视
+https://iptv.gdtv.cn/hls/gdws.m3u8
+#EXTINF:-1 tvg-id="BeijingTV" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/logo/bj.png",北京卫视
+https://iptv.brtn.cn/hls/bjws.m3u8
+#EXTINF:-1 tvg-id="LiaoningTV" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.cn/tv/logo/ln.png",辽宁卫视
+https://iptv.lntv.cn/hls/lnws.m3u8
+#EXTINF:-1 tvg-id="ShandongTV" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.cn/tv/logo/sd.png",山东卫视
+https://iptv.sdtv.cn/hls/sdws.m3u8
+#EXTINF:-1 tvg-id="SichuanTV" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.cn/tv/logo/sc.png",四川卫视
+https://iptv.sctv.com/hls/scws.m3u8
+#EXTINF:-1 tvg-id="HenanTV" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.cn/tv/logo/hn.png",河南卫视
+https://iptv.hntv.tv/hls/hnws.m3u8
+#EXTINF:-1 tvg-id="HubeiTV" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.cn/tv/logo/hb.png",湖北卫视
+https://iptv.hbtv.com/hls/hbws.m3u8
+#EXTINF:-1 tvg-id="AnhuiTV" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.cn/tv/logo/ah.png",安徽卫视
+https://iptv.ahtv.cn/hls/ahws.m3u8
+
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.cn/tv/logo/cctv4k.png",CCTV-4K超高清
+https://live.cctv.cn/cctv4k/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.cn/tv/logo/cctv8k.png",CCTV-8K超高清
+https://live.cctv.cn/cctv8k/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GuangdongSports" tvg-name="广东体育" tvg-logo="https://live.fanmingming.cn/tv/logo/gdty.png",广东体育
+https://iptv.gdtv.cn/hls/gdty.m3u8
+#EXTINF:-1 tvg-id="BeijingSports" tvg-name="北京体育" tvg-logo="https://live.fanmingming.cn/tv/logo/bjty.png",北京体育
+https://iptv.brtn.cn/hls/bjty.m3u8
+#EXTINF:-1 tvg-id="ShanghaiSports" tvg-name="五星体育" tvg-logo="https://live.fanmingming.cn/tv/logo/shty.png",五星体育
+https://iptv.dragontv.cn/hls/shty.m3u8
+
+#EXTINF:-1 tvg-id="GuangdongNews" tvg-name="广东新闻" tvg-logo="https://live.fanmingming.cn/tv/logo/gdxw.png",广东新闻
+https://iptv.gdtv.cn/hls/gdxw.m3u8
+#EXTINF:-1 tvg-id="GuangdongCity" tvg-name="广东珠江" tvg-logo="https://live.fanmingming.cn/tv/logo/gdzj.png",广东珠江
+https://iptv.gdtv.cn/hls/gdzj.m3u8
+#EXTINF:-1 tvg-id="ShenzhenTV" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/logo/sz.png",深圳卫视
+https://iptv.sztv.com/hls/szws.m3u8
+#EXTINF:-1 tvg-id="GuangxiTV" tvg-name="广西卫视" tvg-logo="https://live.fanmingming.cn/tv/logo/gx.png",广西卫视
+https://iptv.gxtv.cn/hls/gxws.m3u8
+#EXTINF:-1 tvg-id="HainanTV" tvg-name="海南卫视" tvg-logo="https://live.fanmingming.cn/tv/logo/hn.png",海南卫视
+https://iptv.hntv.com/hls/hnws.m3u8
+#EXTINF:-1 tvg-id="FujianTV" tvg-name="福建卫视" tvg-logo="https://live.fanmingming.cn/tv/logo/fj.png",福建卫视
+https://iptv.fjtv.cn/hls/fjws.m3u8
+#EXTINF:-1 tvg-id="JiangxiTV" tvg-name="江西卫视" tvg-logo="https://live.fanmingming.cn/tv/logo/jx.png",江西卫视
+https://iptv.jxbtv.com/hls/jxws.m3u8
+#EXTINF:-1 tvg-id="HunanTV" tvg-name="湖南经视" tvg-logo="https://live.fanmingming.cn/tv/logo/hnjs.png",湖南经视
+https://iptv.hnwtv.com/hls/hnjs.m3u8
